@@ -34,12 +34,17 @@ c. Better Service
 # STATECHART DIAGRAM :
 ![324758471-932f4fc5-00ba-4e71-b5bf-dbea23356f69](https://github.com/user-attachments/assets/2341debf-4a92-4082-917c-a5ffa1867e87)
 
+
 # COMPONENT DIAGRAM :
 ![324758641-8997be90-8a04-4707-81fd-32052da3d70d](https://github.com/user-attachments/assets/ef8a6f06-38da-4d25-8ab0-cf0c5accc1da)
+
+
 
 # PACKAGE DIAGRAM :
 
 ![324758766-192c0ebd-9494-4252-998b-926f20415fb8](https://github.com/user-attachments/assets/02021988-b56c-46a2-be04-b2d4c68370df)
+
+
 
 ### RESULT:
 Thus the Student information system project was executed and the output was
